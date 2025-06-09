@@ -1,0 +1,39 @@
+ body{
+    font-family: sans-serif;
+    background-image: url(catj.jpg);
+    /* color: white;
+    background-color: rgb(220, 220, 236);
+    font-size: 20px; 
+    background-color:black; */
+} 
+h1{
+    background-color: burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+fieldset{
+    background-color: burlywood;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+p{
+    
+    font-size: 20px;
+}
+h2{
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+/* #a{
+    color: rgb(36, 36, 214);
+    font-style: italic;
+    text-decoration: none;
+} */
